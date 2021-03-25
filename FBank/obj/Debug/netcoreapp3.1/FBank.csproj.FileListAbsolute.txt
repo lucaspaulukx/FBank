@@ -1,0 +1,13 @@
+C:\Users\Pichau\source\repos\FBank\FBank\bin\Debug\netcoreapp3.1\FBank.exe
+C:\Users\Pichau\source\repos\FBank\FBank\bin\Debug\netcoreapp3.1\FBank.deps.json
+C:\Users\Pichau\source\repos\FBank\FBank\bin\Debug\netcoreapp3.1\FBank.runtimeconfig.json
+C:\Users\Pichau\source\repos\FBank\FBank\bin\Debug\netcoreapp3.1\FBank.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\FBank\FBank\bin\Debug\netcoreapp3.1\FBank.dll
+C:\Users\Pichau\source\repos\FBank\FBank\bin\Debug\netcoreapp3.1\FBank.pdb
+C:\Users\Pichau\source\repos\FBank\FBank\obj\Debug\netcoreapp3.1\FBank.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\FBank\FBank\obj\Debug\netcoreapp3.1\FBank.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\FBank\FBank\obj\Debug\netcoreapp3.1\FBank.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\FBank\FBank\obj\Debug\netcoreapp3.1\FBank.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\FBank\FBank\obj\Debug\netcoreapp3.1\FBank.dll
+C:\Users\Pichau\source\repos\FBank\FBank\obj\Debug\netcoreapp3.1\FBank.pdb
+C:\Users\Pichau\source\repos\FBank\FBank\obj\Debug\netcoreapp3.1\FBank.genruntimeconfig.cache

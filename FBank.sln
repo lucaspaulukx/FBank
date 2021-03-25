@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBank", "FBank\FBank.csproj", "{19AAACB2-6DBA-4535-95EA-C74704398037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AAACB2-6DBA-4535-95EA-C74704398037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AAACB2-6DBA-4535-95EA-C74704398037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AAACB2-6DBA-4535-95EA-C74704398037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AAACB2-6DBA-4535-95EA-C74704398037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ACDB874-011E-4CF3-BBE0-6FE5A44238FA}
+	EndGlobalSection
+EndGlobal
